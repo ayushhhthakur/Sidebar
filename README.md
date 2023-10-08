@@ -4,10 +4,10 @@ Welcome to the Sidebar project! This is a simple sidebar created using HTML, CSS
 
 ## Preview
 
-![Light Mode](/preview/light.png)
-![Light Mode - Close](/preview/light-close.png)
-![Dark Mode](/preview/dark.png)
-![Dark Mode - Close](/preview/dark-close.png)
+![Light Mode](./preview/light.png)
+![Light Mode - Close](./preview/light-close.png)
+![Dark Mode](./preview/dark.png)
+![Dark Mode - Close](./preview/dark-close.png)
 
 
 ## How to Use
